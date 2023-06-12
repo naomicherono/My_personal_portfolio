@@ -38,7 +38,9 @@ Vscode
 ##### https://naomicherono.github.io/Tile_game/
 
 ## Design
-![WhatsApp Image 2023-05-22 at 8 38 40 PM](https://github.com/naomicherono/Tile_game/assets/132652298/88224e93-32b2-4bd6-981b-d946a4d16940)
+![Screenshot from 2023-06-12 21-23-41](https://github.com/naomicherono/My_personal_portfolio/assets/132652298/73b5cf9c-de41-4ce2-bf23-f4591ed07160)
+![Screenshot from 2023-06-12 21-23-51](https://github.com/naomicherono/My_personal_portfolio/assets/132652298/7402b5b5-c931-48ae-928c-503ebd6771bb)
+
 
 
 ### known Bugs
