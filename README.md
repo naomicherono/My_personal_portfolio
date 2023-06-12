@@ -16,8 +16,7 @@ This is my personal website showcasing my skills and some of my projects.
 #### To set up and run the project follo the below steps
 
 ```
-git clone https://github.com/naomicherono/My_personal_portfolio.git
-
+git clone git@github.com:naomicherono/My_personal_portfolio.git
 git init
 git add <filename>
 git commit -m "initial commmit"
@@ -35,7 +34,7 @@ Vscode
 ```
 
 ### lINK TO LIVE SITE
-##### https://naomicherono.github.io/Tile_game/
+##### https://naomicherono.github.io/My_personal_portfolio/
 
 ## Design
 ![Screenshot from 2023-06-12 21-23-41](https://github.com/naomicherono/My_personal_portfolio/assets/132652298/73b5cf9c-de41-4ce2-bf23-f4591ed07160)
