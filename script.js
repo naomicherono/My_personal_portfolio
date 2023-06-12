@@ -1,9 +1,6 @@
-document.addEventListener("DOMContentLoaded", function() {
-    let typed = new Typed(".text", {
-      strings: ["Frontend Developer", "Web Developer"],
-      typeSpeed: 100,
-      backSpeed: 100,
-      backDelay: 1000,
-      loop: true
-    });
-  });
+function toggleMenu(){
+  const menu=document.querySelector(".menu-links");
+  const icon=document.querySelector(".humberger-icon");
+  menu.classList.toggle("open");
+  icon.classList.toggle("open");
+}
